@@ -1,0 +1,9 @@
+[user]
+	email = 2180754071@qq.com
+	name = 215202-Liu Jin
+[core]
+	editor = vim
+[color]
+	ui = true
+[alias]
+	graph = log --all --graph --decorate --oneline
